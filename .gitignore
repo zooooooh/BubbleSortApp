@@ -15,3 +15,7 @@ Thumbs.db
 
 # Temporary files
 *.swp
+
+# Игнорируем ненужные файлы
+help.txt
+oldBubbleSort.java
