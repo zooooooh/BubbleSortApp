@@ -1,0 +1,17 @@
+# Maven
+target/
+*.log
+
+# IDE files
+.idea/
+*.iml
+
+# JAR files
+*.jar
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
